@@ -6,3 +6,5 @@ www.patika.dev frontend eğitimi kapsamında yapılmıştır.Detay linki için [
 * Redux
 * Redux Toolkit
 * axios
+
+## [openlivepage](https://burakozel-weather-app.netlify.app/)
