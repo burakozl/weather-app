@@ -1,5 +1,5 @@
-# React-Redux Covid19 Tracker App
-www.patika.dev frontend eğitimi kapsamında yapılmıştır.Detay linki için [tıklayınız](https://app.patika.dev/courses/redux/covid19-tracker)
+# React-Redux weather App
+www.patika.dev frontend eğitimi kapsamında yapılmıştır.Detay linki için [tıklayınız](https://app.patika.dev/courses/redux/weatherapp)
 
 ## Kulanılan Teknoloji ve Araçlar
 * React.js
